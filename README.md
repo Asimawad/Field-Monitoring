@@ -41,8 +41,8 @@ Step-by-step guide to setting up a development environment:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/ammarnasr/agriAI.git
-   cd agriAI
+   git clone https://github.com/Asimawad/Field-Monitoring.git
+   cd Field-Monitoring
    ```
 
 2. **Set up a Python virtual environment (Optional)**
